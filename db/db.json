@@ -1,0 +1,367 @@
+{
+  "Posts": [
+    {
+      "post_id": "01",
+      "user_id": "u123",
+      "username": "john_doe",
+      "profile_picture": "./src/assets/pro1.png",
+      "image": "./src/assets/pos1.jpg",
+      "storiy": "./src/assets/s1.jpg",
+      "caption": "Sunset vibes 🌅",
+      "location": "Santa Monica, CA",
+      "timestamp": "2025-05-14T18:23:00Z",
+      "likes_count": 145,
+      "is_liked": true,
+      "comments": [
+        {
+          "comment_id": "c001",
+          "username": "jane_smith",
+          "text": "Beautiful shot!",
+          "timestamp": "2025-05-14T18:45:00Z"
+        },
+        {
+          "comment_id": "c002",
+          "username": "mike22",
+          "text": "Love this 😍",
+          "timestamp": "2025-05-14T19:10:00Z"
+        }
+      ],
+      "id": "3886"
+    },
+    {
+      "post_id": "02",
+      "user_id": "u456",
+      "username": "emma_travels",
+      "profile_picture": "./src/assets/pro2.jpeg",
+      "image": "/src/assets/pos2.jpg",
+      "storiy": "./src/assets/s2.jpg",
+      "caption": "Woke up to this view 🏔️",
+      "location": "Swiss Alps",
+      "timestamp": "2025-05-13T08:15:00Z",
+      "likes_count": 320,
+      "is_liked": false,
+      "comments": [
+        {
+          "comment_id": "c003",
+          "username": "adventurer_tim",
+          "text": "Incredible!",
+          "timestamp": "2025-05-13T09:00:00Z"
+        }
+      ],
+      "id": "f97d"
+    },
+    {
+      "post_id": "03",
+      "user_id": "u789",
+      "username": "chef_anna",
+      "profile_picture": "./src/assets/pro3.jpeg",
+      "image": "./src/assets/pos3.jpg",
+      "storiy": "./src/assets/s3.jpeg",
+      "caption": "Homemade lasagna 🍝",
+      "location": "New York, NY",
+      "timestamp": "2025-05-12T12:00:00Z",
+      "likes_count": 198,
+      "is_liked": true,
+      "comments": [
+        {
+          "comment_id": "c004",
+          "username": "foodie_tom",
+          "text": "Recipe please!! 😋",
+          "timestamp": "2025-05-12T12:30:00Z"
+        }
+      ],
+      "idtag": "f8dc",
+      "id": "cbbe"
+    },
+    {
+      "post_id": "04",
+      "user_id": "u654",
+      "username": "mark_runs",
+      "profile_picture": "./src/assets/pro4.jpeg",
+      "image": "./src/assets/pos4.jpeg",
+      "storiy": "./src/assets/s4.jpeg",
+      "caption": "5K done before sunrise 💪",
+      "location": "Austin, TX",
+      "timestamp": "2025-05-11T06:00:00Z",
+      "likes_count": 110,
+      "is_liked": false,
+      "comments": [
+        {
+          "comment_id": "c005",
+          "username": "runner_girl",
+          "text": "You're on fire! 🔥",
+          "timestamp": "2025-05-11T06:15:00Z"
+        }
+      ],
+      "idtag": "2482",
+      "id": "1647"
+    },
+    {
+      "post_id": "05",
+      "user_id": "u321",
+      "username": "tech_dave",
+      "profile_picture": "./src/assets/pro5.jpeg",
+      "image": "./src/assets/pos5.jpeg",
+      "storiy": "./src/assets/s5.jpg",
+      "caption": "My new home office setup 🔥",
+      "location": "San Francisco, CA",
+      "timestamp": "2025-05-10T14:45:00Z",
+      "likes_count": 250,
+      "is_liked": true,
+      "comments": [
+        {
+          "comment_id": "c006",
+          "username": "code_girl",
+          "text": "Love the lighting!",
+          "timestamp": "2025-05-10T15:00:00Z"
+        }
+      ],
+      "idtag": "df4a",
+      "id": "8ada"
+    },
+    {
+      "post_id": "006",
+      "user_id": "u741",
+      "username": "art_by_lia",
+      "profile_picture": "./src/assets/pro6.jpeg",
+      "image": "./src/assets/pos6.jpeg",
+      "storiy": "./src/assets/s6.jpg",
+      "caption": "Finished my latest piece 🎨",
+      "location": "Los Angeles, CA",
+      "timestamp": "2025-05-09T16:30:00Z",
+      "likes_count": 410,
+      "is_liked": true,
+      "comments": [
+        {
+          "comment_id": "c007",
+          "username": "art_lover",
+          "text": "This is stunning!",
+          "timestamp": "2025-05-09T17:00:00Z"
+        }
+      ],
+      "idtag": "0f36",
+      "id": "0432"
+    },
+    {
+      "post_id": "007",
+      "user_id": "u852",
+      "username": "car_guy_jake",
+      "profile_picture": "./src/assets/pro7.jpeg",
+      "image": "./src/assets/pos7.jpeg",
+      "storiy": "./src/assets/s7.jpeg",
+      "caption": "Finally got her clean 🚗✨",
+      "location": "Dallas, TX",
+      "timestamp": "2025-05-08T10:20:00Z",
+      "likes_count": 330,
+      "is_liked": false,
+      "comments": [
+        {
+          "comment_id": "c008",
+          "username": "engineer_ron",
+          "text": "What a beauty!",
+          "timestamp": "2025-05-08T10:50:00Z"
+        }
+      ],
+      "idtag": "9a5a",
+      "id": "edad"
+    },
+    {
+      "post_id": "008",
+      "user_id": "u963",
+      "username": "booknerd_sam",
+      "profile_picture": "./src/assets/pro8.jpeg",
+      "image": "./src/assets/pos8.jpg",
+      "storiy": "./src/assets/s8.webp",
+      "caption": "Reading 'Atomic Habits' again 📖",
+      "location": "Seattle, WA",
+      "timestamp": "2025-05-07T21:10:00Z",
+      "likes_count": 89,
+      "is_liked": true,
+      "comments": [
+        {
+          "comment_id": "c009",
+          "username": "nerdy_gal",
+          "text": "One of my favs!",
+          "timestamp": "2025-05-07T21:20:00Z"
+        }
+      ],
+      "idtag": "7a89",
+      "id": "d297"
+    },
+    {
+      "post_id": "009",
+      "user_id": "u555",
+      "username": "skyview_aviator",
+      "profile_picture": "./src/assets/pro9.jpeg",
+      "image": "./src/assets/pos9.jpg",
+      "storiy": "./src/assets/s9.jpeg",
+      "caption": "Cockpit views 🛫",
+      "location": "Over the Rockies",
+      "timestamp": "2025-05-06T13:00:00Z",
+      "likes_count": 412,
+      "is_liked": true,
+      "comments": [
+        {
+          "comment_id": "c010",
+          "username": "jet_setter",
+          "text": "Living the dream!",
+          "timestamp": "2025-05-06T13:30:00Z"
+        }
+      ],
+      "idtag": "a015",
+      "id": "46b3"
+    },
+    {
+      "post_id": "010",
+      "user_id": "u111",
+      "username": "naturelover_mia",
+      "profile_picture": "./src/assets/pro10.png",
+      "image": "./src/assets/pos10.jpg",
+      "storiy": "./src/assets/s10.jpg",
+      "caption": "Morning walk in the forest 🌲",
+      "location": "Portland, OR",
+      "timestamp": "2025-05-05T07:45:00Z",
+      "likes_count": 177,
+      "is_liked": false,
+      "comments": [
+        {
+          "comment_id": "c011",
+          "username": "green_life",
+          "text": "So peaceful 🍃",
+          "timestamp": "2025-05-05T08:00:00Z"
+        }
+      ],
+      "idtag": "9932",
+      "id": "9ef8"
+    }
+  ],
+  "Suggestion": [
+    {
+      "post_id": "11",
+      "user_id": "u123",
+      "username": "john_doe",
+      "profile_picture": "./src/assets/pro1.png",
+      "idtag": "8196",
+      "id": "7e45"
+    },
+    {
+      "post_id": "12",
+      "user_id": "u456",
+      "username": "emma_travels",
+      "profile_picture": "./src/assets/pro2.jpeg",
+      "idtag": "5f11",
+      "id": "8258"
+    },
+    {
+      "post_id": "13",
+      "user_id": "u789",
+      "username": "chef_anna",
+      "profile_picture": "./src/assets/pro3.jpeg",
+      "idtag": "a8c7",
+      "id": "6508"
+    },
+    {
+      "post_id": "14",
+      "user_id": "u654",
+      "username": "mark_runs",
+      "profile_picture": "./src/assets/pro4.jpeg",
+      "idtag": "65f2",
+      "id": "b10c"
+    },
+    {
+      "post_id": "15",
+      "user_id": "u321",
+      "username": "tech_dave",
+      "profile_picture": "./src/assets/pro5.jpeg",
+      "idtag": "a308",
+      "id": "7316"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "profile_picture": "/src/assets/pro1.png",
+      "image": "/src/assets/s1.jpg"
+    },
+    {
+      "id": "2",
+      "username": "emma_travels",
+      "profile_picture": "/src/assets/pro2.jpeg",
+      "image": "/src/assets/s2.jpg"
+    },
+    {
+      "id": "3",
+      "username": "chef_anna",
+      "profile_picture": "/src/assets/pro3.jpeg",
+      "image": "/src/assets/s3.jpeg"
+    },
+    {
+      "id": "4",
+      "username": "mark_runs",
+      "profile_picture": "/src/assets/pro4.jpeg",
+      "image": "/src/assets/s4.jpeg"
+    },
+    {
+      "id": "5",
+      "username": "tech_dave",
+      "profile_picture": "/src/assets/pro5.jpeg",
+      "image": "/src/assets/s5.jpg"
+    },
+    {
+      "id": "6",
+      "username": "art_by_lia",
+      "profile_picture": "/src/assets/pro6.jpeg",
+      "image": "/src/assets/s6.jpg"
+    },
+    {
+      "id": "7",
+      "username": "car_guy_jake",
+      "profile_picture": "/src/assets/pro7.jpeg",
+      "image": "/src/assets/s7.jpeg"
+    },
+    {
+      "id": "8",
+      "username": "booknerd_sam",
+      "profile_picture": "/src/assets/pro8.jpeg",
+      "image": "/src/assets/s8.webp"
+    },
+    {
+      "id": "9",
+      "username": "skyview_aviator",
+      "profile_picture": "/src/assets/pro9.jpeg",
+      "image": "/src/assets/s9.jpeg"
+    },
+    {
+      "id": "10",
+      "username": "naturelover_mia",
+      "profile_picture": "/src/assets/pro10.png",
+      "image": "/src/assets/s10.jpg"
+    }
+  ],
+  "profile": [
+    {
+      "id": "1",
+      "username": [
+        "joshva"
+      ],
+      "profile_picture": [
+        "/src/assets/pro10.png"
+      ]
+    }
+  ],
+  "follow": [
+    {
+      "id": "752c",
+      "post_id": "13",
+      "username": "chef_anna",
+      "profile_picture": "./src/assets/pro3.jpeg"
+    },
+    {
+      "id": "2afd",
+      "post_id": "12",
+      "username": "emma_travels",
+      "profile_picture": "./src/assets/pro2.jpeg"
+    }
+  ]
+}

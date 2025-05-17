@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Playwrite+DK+Loopet:wght@100..400&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0%;
+}
+.appdiv{
+    display: flex;
+}
+.w-25{
+    width: 20%;
+}
+.w-50{
+    width: 50%;
+    height: 100vh;
+
+}
+.navlist{
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2rem;
+    border-right:2px solid gray;
+    height: 100vh;
+}
+.insttext{
+    margin-top: 30px;
+    width: 125px;
+}
+.listitems{
+    display: flex;
+    gap: 10px;
+}
+.listmenu{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;        
+    margin-top: 90px;
+}
+.Stories{
+    height: 100px;
+}
+.posts{
+    display: flex;
+    gap: 10px;
+  flex-direction: column;
+}
+.proimg{
+    max-width: 50px;
+    max-height: 45px;
+}
+.proimg img{
+    width: 35px;
+    height: 30px;
+}
+.post img{
+    width: 100%;
+}
+.storiesbar{
+    max-height: 100px;
+}
+
+.stories-box{
+    max-width: 150px;
+    margin-left: 25px;
+}
+.sugimg{
+    margin-right: 14px;
+    margin-bottom: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+.sugimg img{
+    width: 50px;
+}
+.sugbox{
+    padding-left: 25px;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    margin-top: 30px;
+}
+.sughead{
+    padding-left: 1px;
+}
+.sughead1{
+    justify-content: space-around;
+}
+.unfollow{
+    color: rgb(146, 143, 143);
+}
+.follow{
+    color: rgb(71, 71, 236);
+}
+.story-name{
+    font-size: 13px;
+    margin-top: 5px;
+    text-align: center;
+}
+.storieimg img{
+    width: 45px;
+    height: 45px;
+    border: 3px solid #43cb43;
+    background:linear-gradient(45deg,#ff00ff,#ff6600,#ffcc00)
+
+}
+.vstory_pic{
+    position: absolute;
+    top: 20px;
+    display: flex;
+    justify-content: center;
+    z-index: 2;
+    left: 38%;
+    gap: 11px;
+    align-items: center;
+}
+.vstory_pic img{
+    width: 35px;
+    height: 35px;
+}
+.vstory_box{
+    position: relative;
+    z-index: 1;
+    top: 0;
+    left: 0;
+}
+.vstory-imges{
+    max-width: 400px;
+}
+
+.profile img{
+    height: 70px;
+    width: 80px;
+}
+.selfprofile{
+    margin-left: 5px;
+}
+.pro_box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 4rem;
+}
+.pro_box img{
+    width: 60px;
+    height: 65px;
+}
+.pro_box_img{
+    display: inline-flex;
+        align-items: center;
+        gap: 10px;
+}
